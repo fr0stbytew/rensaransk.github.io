@@ -1,7 +1,7 @@
-<manifest alg="2" build="2017.0.3.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="resnsaransk.github.io" resolutions="1x" timestamp="1515268230332">
+<manifest alg="2" build="2017.0.3.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="resnsaransk.github.io" resolutions="1x" timestamp="1515268414178">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="index.css" crc="419094213" ref="index"/>
+    <file name="index.css" crc="3797929090" ref="index"/>
     <file name="nomq_index.css" crc="3841817259" ref="index"/>
     <file name="iefonts_index.css" crc="3824530138" ref="index"/>
   </folder>
@@ -75,27 +75,47 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="u2093-43.png" crc="3859285210" ref="index"/>
-    <file name="вставленное изображение 750x537-crop-u20644.jpg" crc="45860703" seo="true" ref="index">
+    <file name="вставленное изображение 750x537-crop-u20644.jpg" crc="4055701560" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u2067-44.png" crc="419703318" ref="index"/>
-    <file name="вставленное изображение 1024x682-crop-u20704.jpg" crc="3862043629" seo="true" ref="index">
+    <file name="u2067-44.png" crc="276707183" ref="index"/>
+    <file name="вставленное изображение 1024x682-crop-u20704.jpg" crc="289384827" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u2072-44.png" crc="4116456301" ref="index"/>
-    <file name="вставленное изображение 960x540-crop-u20734.jpg" crc="62172047" seo="true" ref="index">
+    <file name="u2072-44.png" crc="3909109125" ref="index"/>
+    <file name="вставленное изображение 960x540-crop-u20734.jpg" crc="303836638" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u2076-84.png" crc="491370970" ref="index"/>
-    <file name="вставленное изображение 800x450-crop-u20834.jpg" crc="117161166" seo="true" ref="index">
+    <file name="u2076-84.png" crc="3899548344" ref="index"/>
+    <file name="вставленное изображение 800x450-crop-u20834.jpg" crc="4030517422" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u2086-44.png" crc="527622118" ref="index"/>
-    <file name="вставленное изображение 1024x682-crop-u20874.jpg" crc="478717327" seo="true" ref="index">
+    <file name="u2086-44.png" crc="3897001442" ref="index"/>
+    <file name="вставленное изображение 1024x682-crop-u20874.jpg" crc="238883983" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u2093-44.png" crc="4168535266" ref="index"/>
+    <file name="u2093-44.png" crc="3535270" ref="index"/>
+    <file name="вставленное изображение 750x537-crop-u20645.jpg" crc="45860703" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u2067-45.png" crc="419703318" ref="index"/>
+    <file name="вставленное изображение 1024x682-crop-u20705.jpg" crc="3862043629" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u2072-45.png" crc="4116456301" ref="index"/>
+    <file name="вставленное изображение 960x540-crop-u20735.jpg" crc="62172047" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u2076-85.png" crc="491370970" ref="index"/>
+    <file name="вставленное изображение 800x450-crop-u20835.jpg" crc="117161166" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u2086-45.png" crc="527622118" ref="index"/>
+    <file name="вставленное изображение 1024x682-crop-u20875.jpg" crc="478717327" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u2093-45.png" crc="4168535266" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index"/>
   </folder>
-  <file name="index.html" crc="369423392" seo="true" mt="1515267959588" redirect="true"/>
+  <file name="index.html" crc="148491955" seo="true" mt="1515268399619" redirect="true"/>
 </manifest>
