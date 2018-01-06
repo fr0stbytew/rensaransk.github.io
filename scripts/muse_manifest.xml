@@ -1,0 +1,101 @@
+<manifest alg="2" build="2017.0.3.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="resnsaransk.github.io" resolutions="1x" timestamp="1515268091291">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="index.css" crc="419094213" ref="index"/>
+    <file name="nomq_index.css" crc="3841817259" ref="index"/>
+    <file name="iefonts_index.css" crc="3824530138" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="46400467" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="436936948" ref="index"/>
+    <file name="jquery.watch.js" crc="4178585335" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="52098982" ref="index"/>
+    <file name="require.js" crc="85721165" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="вставленное изображение 750x537-crop-u2064.jpg" crc="525564223" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u2067-4.png" crc="63633028" ref="index"/>
+    <file name="u2072-4.png" crc="440005640" ref="index"/>
+    <file name="вставленное изображение 1024x682-crop-u2070.jpg" crc="3857631495" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="вставленное изображение 960x540-crop-u2073.jpg" crc="319629067" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u2076-8.png" crc="3838698224" ref="index"/>
+    <file name="u2086-4.png" crc="3862610825" ref="index"/>
+    <file name="вставленное изображение 800x450-crop-u2083.jpg" crc="367986058" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="вставленное изображение 1024x682-crop-u2087.jpg" crc="3857631495" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u2093-4.png" crc="3915203742" ref="index"/>
+    <file name="вставленное изображение 750x537-crop-u20642.jpg" crc="3776558897" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u2067-42.png" crc="4206459334" ref="index"/>
+    <file name="u2072-42.png" crc="4053232950" ref="index"/>
+    <file name="вставленное изображение 1024x682-crop-u20702.jpg" crc="3777802952" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="вставленное изображение 960x540-crop-u20732.jpg" crc="3914861415" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u2076-82.png" crc="109772081" ref="index"/>
+    <file name="u2086-42.png" crc="228734760" ref="index"/>
+    <file name="вставленное изображение 800x450-crop-u20832.jpg" crc="492496530" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="вставленное изображение 1024x682-crop-u20872.jpg" crc="3777802952" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u2093-42.png" crc="3962037037" ref="index"/>
+    <file name="вставленное изображение 750x537-crop-u20643.jpg" crc="397270693" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u2067-43.png" crc="480701211" ref="index"/>
+    <file name="вставленное изображение 1024x682-crop-u20703.jpg" crc="3867748021" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u2072-43.png" crc="162633407" ref="index"/>
+    <file name="вставленное изображение 960x540-crop-u20733.jpg" crc="3868910474" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u2076-83.png" crc="87533765" ref="index"/>
+    <file name="вставленное изображение 800x450-crop-u20833.jpg" crc="3765155266" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u2086-43.png" crc="3896789207" ref="index"/>
+    <file name="вставленное изображение 1024x682-crop-u20873.jpg" crc="3929902357" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u2093-43.png" crc="3859285210" ref="index"/>
+    <file name="вставленное изображение 750x537-crop-u20644.jpg" crc="45860703" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u2067-44.png" crc="419703318" ref="index"/>
+    <file name="вставленное изображение 1024x682-crop-u20704.jpg" crc="3862043629" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u2072-44.png" crc="4116456301" ref="index"/>
+    <file name="вставленное изображение 960x540-crop-u20734.jpg" crc="62172047" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u2076-84.png" crc="491370970" ref="index"/>
+    <file name="вставленное изображение 800x450-crop-u20834.jpg" crc="117161166" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u2086-44.png" crc="527622118" ref="index"/>
+    <file name="вставленное изображение 1024x682-crop-u20874.jpg" crc="478717327" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u2093-44.png" crc="4168535266" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+  </folder>
+  <file name="index.html" crc="369423392" seo="true" mt="1515267959588" redirect="true"/>
+</manifest>
